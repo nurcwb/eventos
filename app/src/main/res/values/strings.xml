@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Eventos</string>
+    <string name="ok">ok</string>
+    <string name="title_invite_to_event">Estou pensando em ir, vamos?!</string>
+    <string name="share">Compartilhar</string>
+    <string name="loading_list_of_events">Carregando Lista de Eventos</string>
+    <string name="subscribe_title">Inscrição</string>
+    <string name="info_about_event">Carregando informações sobre o evento</string>
+    <string name="compartilhar">Compartilhar</string>
+    <string name="me_inscrever">Me inscrever</string>
+    <string name="agenda_de_eventos">Agenda de Eventos</string>
+    <string name="ver_eventos">Ver Eventos</string>
+    <string name="inscri_o_para_evento">Inscrição para evento</string>
+    <string name="nome">Nome</string>
+    <string name="email">email</string>
+    <string name="inscrever">Inscrever</string>
+</resources>
