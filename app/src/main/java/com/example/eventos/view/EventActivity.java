@@ -32,7 +32,7 @@ public class EventActivity extends AppCompatActivity {
             share.putExtra(Intent.EXTRA_SUBJECT,
                     model.getEvent().getEventTitle());
             share.putExtra(Intent.EXTRA_TEXT,
-                    getString(R.string.title_invite_to_event));
+                    getString(R.string.title_invite_to_event)+" "+model.getEvent().getEventTitle());
 
             startActivity(Intent.createChooser(share, getString(R.string.share)));
         });
